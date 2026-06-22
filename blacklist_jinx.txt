@@ -41,3 +41,5 @@ dmsdk-api.dmrtb.com
 sdk.open.talk.getui.com
 dmsdk-tracking.dmrtb.com
 vod-license-m.volccdn.com
+sdk.open.talk.getui.com
+vod-license-b.volccdn.com
