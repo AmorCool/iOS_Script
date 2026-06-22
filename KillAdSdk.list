@@ -51,3 +51,11 @@ DOMAIN,firebase-settings.crashlytics.com,REJECT-DROP
 DOMAIN,errnewlog.umeng.com,REJECT-DROP
 DOMAIN,sdkquic.e.qq.com,REJECT-DROP
 
+
+# ===== 260622_1851=====
+DOMAIN,dmsdk-api.dmrtb.com,REJECT-DROP
+DOMAIN,sdk.open.talk.getui.com,REJECT-DROP
+DOMAIN,dmsdk-tracking.dmrtb.com,REJECT-DROP
+DOMAIN,vod-license-m.volccdn.com,REJECT-DROP
+DOMAIN,sdk.open.talk.getui.com,REJECT-DROP
+DOMAIN,vod-license-b.volccdn.com,REJECT-DROP
