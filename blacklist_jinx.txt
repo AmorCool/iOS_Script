@@ -1,3 +1,16 @@
+cdn.yunxish.com
+api.yunxish.com
+usr-api.yunxish.com
+service.yunxish.com
+tracelog-debug.yunxish.com
+rcv.aiclk.com
+dmsdk-api-ssp.dmrtb.com
+lf-cdn-tos.bytescm.com
+orig1.tbxgdc.cn
+resource.wuyra.com
+9be.mcqmntym.cc
+webcast-open.douyin.com
+api.free.wifi.360.cn
 adsmartget.datads.cn
 adx-data.yfanads.com
 tracker.yfanads.com
@@ -24,8 +37,3 @@ pingma.qq.com
 firebase-settings.crashlytics.com
 errnewlog.umeng.com
 sdkquic.e.qq.com
-webcast-open.douyin.com
-api.free.wifi.360.cn
-orig1.tbxgdc.cn
-resource.wuyra.com
-9be.mcqmntym.cc
