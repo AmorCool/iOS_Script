@@ -37,7 +37,6 @@ pingma.qq.com
 firebase-settings.crashlytics.com
 errnewlog.umeng.com
 sdkquic.e.qq.com
-i.ilife798.com
 dmsdk-api.dmrtb.com
 sdk.open.talk.getui.com
 dmsdk-tracking.dmrtb.com
