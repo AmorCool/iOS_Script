@@ -43,3 +43,11 @@ dmsdk-tracking.dmrtb.com
 vod-license-m.volccdn.com
 sdk.open.talk.getui.com
 vod-license-b.volccdn.com
+
+# 酷狗概念版开屏
+
+adservice.kugou.com
+ad.tencentmusic.com
+tmeadcomm.y.qq.com
+serveraddr.service.kugou.com
+adsmind.gdtimg.com
