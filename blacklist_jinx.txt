@@ -45,9 +45,24 @@ sdk.open.talk.getui.com
 vod-license-b.volccdn.com
 
 # 酷狗概念版开屏
-
 adservice.kugou.com
 ad.tencentmusic.com
 tmeadcomm.y.qq.com
 serveraddr.service.kugou.com
 adsmind.gdtimg.com
+#可能与开屏广告相关的酷狗域名:
+nbcollect.kugou.com
+nbcollectretry.kugou.com
+#第三方广告平台域名
+ca.iadsdk.apple.com
+pubads.g.doubleclick-cn.net
+googleads.g.doubleclick-cn.net
+app-analytics-services.com
+api-adservices.apple.com
+tmead.y.qq.com
+adsmind.gdtimg.com
+sdkreport.e.qq.com
+ad.tencentmusic.com
+tmeadcomm.y.qq.com
+#其他酷狗相关域名（可能用于数据采集）:
+mobilelog.kugou.com
