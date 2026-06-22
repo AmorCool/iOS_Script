@@ -1,0 +1,17 @@
+# NAME: KillAdSDK
+# AUTHOR: @Analytics
+# REPO: https://github.com/AmorCool/iOS_Script
+# UPDATED: 2026-06-22
+# TOTAL: 35
+
+# ===== 26.6.22新抓取域名(趣盟SDK )=====
+DOMAIN,cdn.yunxish.com
+DOMAIN,api.yunxish.com
+DOMAIN,usr-api.yunxish.com
+DOMAIN,service.yunxish.com
+DOMAIN,tracelog-debug.yunxish.com
+
+# ===== 趣头条=====
+DOMAIN,rcv.aiclk.com
+DOMAIN,dmsdk-api-ssp.dmrtb.com
+DOMAIN,lf-cdn-tos.bytescm.com
