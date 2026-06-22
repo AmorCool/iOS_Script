@@ -2,16 +2,52 @@
 # AUTHOR: @Analytics
 # REPO: https://github.com/AmorCool/iOS_Script
 # UPDATED: 2026-06-22
-# TOTAL: 35
 
-# ===== 26.6.22新抓取域名(趣盟SDK )=====
-DOMAIN,cdn.yunxish.com
-DOMAIN,api.yunxish.com
-DOMAIN,usr-api.yunxish.com
-DOMAIN,service.yunxish.com
-DOMAIN,tracelog-debug.yunxish.com
+# ===== 26.6.22新抓取域名=====
+DOMAIN,cdn.yunxish.com,REJECT-DROP
+DOMAIN,api.yunxish.com,REJECT-DROP
+DOMAIN,usr-api.yunxish.com,REJECT-DROP
+DOMAIN,service.yunxish.com,REJECT-DROP
+DOMAIN,tracelog-debug.yunxish.com,REJECT-DROP
+DOMAIN,rcv.aiclk.com,REJECT-DROP
+DOMAIN,dmsdk-api-ssp.dmrtb.com,REJECT-DROP
+DOMAIN,lf-cdn-tos.bytescm.com,REJECT-DROP
 
-# ===== 趣头条=====
-DOMAIN,rcv.aiclk.com
-DOMAIN,dmsdk-api-ssp.dmrtb.com
-DOMAIN,lf-cdn-tos.bytescm.com
+# ===== 附加（可选）=====
+DOMAIN,orig1.tbxgdc.cn,REJECT-DROP
+DOMAIN,resource.wuyra.com,REJECT-DROP
+DOMAIN,9be.mcqmntym.cc,REJECT-DROP
+DOMAIN,webcast-open.douyin.com,REJECT-DROP
+DOMAIN,api.free.wifi.360.cn,REJECT-DROP
+
+
+# ===== 典型广告=====
+DOMAIN,adsmartget.datads.cn,REJECT-DROP
+DOMAIN,adx-data.yfanads.com,REJECT-DROP
+DOMAIN,tracker.yfanads.com,REJECT
+DOMAIN,de.ad.gameley.com,REJECT-DROP
+DOMAIN,jp.ad.gameley.com,REJECT-DROP
+DOMAIN,v2-ad.adukwai.com,REJECT-DROP
+DOMAIN,v4-ad.adukwai.com,REJECT-DROP
+DOMAIN,p2-ad.adukwai.com,REJECT-DROP
+DOMAIN,cpc-service-square.yunxish.com,REJECT-DROP
+DOMAIN,cd.yfanads.cn,REJECT-DROP
+DOMAIN,cpc-service-square.58iclick.com,REJECT-DROP
+DOMAIN,dsp-api.dmrtb.com,REJECT-DROP
+DOMAIN,s.1rtb.net,REJECT-DROP
+DOMAIN,adx-strategy-api-cn.statisticslinks.com,REJECT-DROP
+DOMAIN,oss.cdn.aiclk.com,REJECT-DROP
+DOMAIN,www.google-analytics.com,REJECT-DROP
+
+# ===== 遥测/推送SDK=====
+DOMAIN,mcs.zijieapi.com,REJECT-DROP
+DOMAIN,mssdk.volces.com,REJECT
+DOMAIN,apmplus.volces.com,REJECT
+DOMAIN,sdk-open-phone.getui.com,REJECT-DROP
+DOMAIN,ido.gepush.com,REJECT-DROP
+DOMAIN,bugly.qq.com,REJECT-DROP
+DOMAIN,pingma.qq.com,REJECT-DROP
+DOMAIN,firebase-settings.crashlytics.com,REJECT-DROP
+DOMAIN,errnewlog.umeng.com,REJECT-DROP
+DOMAIN,sdkquic.e.qq.com,REJECT-DROP
+
