@@ -288,3 +288,15 @@ www.mps.gov.cn
 112.45.27.156
 42.202.155.215
 59.63.226.86
+
+# 屏蔽虚拟物品发货（涉及NBTool会员）
+s33.jufahuo.vip
+s0h.cn
+
+# 拦截 NB Tool 相关更新
+media-qhxn-fj-home.qh6oss.ctyunxs.cn
+https://media-qhxn-fj-home.qh6oss.ctyunxs.cn/familycloud/53c530f3-1f67-45f4-b904-742fa08ee3fa.ipa
+119.29.29.98:80
+http://nbtool8.com:9527/nb/app
+http://nbtool8.com:9527/nb/telnet
+https://gitee.com/brentelauby/nbsigner/raw/master/domain.txt
