@@ -300,3 +300,17 @@ https://media-qhxn-fj-home.qh6oss.ctyunxs.cn/familycloud/53c530f3-1f67-45f4-b904
 http://nbtool8.com:9527/nb/app
 http://nbtool8.com:9527/nb/telnet
 https://gitee.com/brentelauby/nbsigner/raw/master/domain.txt
+
+
+# 屏蔽Eggyparty上报日志（isroot？）
+drpf-u5.proxima.nie.netease.com
+https://applog.matrix.netease.com/client/sdk/clientlog_batch
+https://applog.matrix.netease.com/client/sdk/clientlog
+https://analytics.mpay.netease.com/
+https://applog.matrix.netease.com/
+# QQ邮箱（信息流/数据上报）
+https://ii.gdt.qq.com
+https://xs.gdt.qq.com
+https://rpt.gdt.qq.com
+https://vr.gdt.qq.com
+https://v.gdt.qq.com
